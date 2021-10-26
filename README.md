@@ -1,16 +1,30 @@
-# Hi There, I'm Christopher aka. Blizzardengle <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/gifs/hi.gif" width="30px">
+# Hi There, I'm Christopher <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/gifs/hi.gif" width="30px">
 
-<!--
-**blizzardengle/blizzardengle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a programmer and educator my goal is to help businesses and individuals succeed with technology.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eagle Scout
+Helping Hands
+Tahquitz Community
+
+CSS3
+HTML5
+Java
+JavaScript
+LESS
+Markdown
+MySQL
+Node
+PHP
+Python
+SQLite
+
+Canvas LMS
+Docker
+GitHub
+Linux
+VSCodium (VSCode)
+Windows
+WordPress
+git
