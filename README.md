@@ -4,7 +4,11 @@ As a programmer and educator my goal is to help businesses and individuals succe
 
 ## Skills
 
-<table>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="500" height="150">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+
+<table style="display:inline-flex;">
     <tr>
         <td>
             <p align="center">
@@ -29,6 +33,9 @@ As a programmer and educator my goal is to help businesses and individuals succe
         </td>
     </tr>
 </table>
+
+</foreignObject>
+</svg>
 
 CSS3
 HTML5
