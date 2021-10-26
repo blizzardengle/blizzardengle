@@ -7,13 +7,25 @@ As a programmer and educator my goal is to help businesses and individuals succe
 <table>
     <tr>
         <td>
-            <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/bsa.gif" width="30px"> Eagle Scout
+            <p align="center">
+                <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/bsa.png" width="50px">
+                <br>
+                Eagle Scout
+            </p>
         </td>
         <td>
-            <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/helping-hands.gif" width="30px"> Helping Hands
+            <p align="center">
+                <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/helping-hands.png" width="50px">
+                <br>
+                Helping Hands
+            </p>
         </td>
         <td>
-            <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/tahquitz.gif" width="30px"> Tahquitz Community
+            <p align="center">
+                <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/tahquitz.png" width="50px">
+                <br>
+                Tahquitz Community
+            </p>
         </td>
     </tr>
 </table>
