@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi There, I'm Christopher aka. Blizzardengle <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/gifs/Hi.gif" width="30px">
 
 <!--
 **blizzardengle/blizzardengle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
