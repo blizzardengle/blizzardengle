@@ -55,8 +55,6 @@ As a programmer and educator my goal is to help businesses and individuals succe
                 Java
             </p>
         </td>
-    </tr>
-    <tr>
         <td>
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/js.png" width="50px">
@@ -82,6 +80,13 @@ As a programmer and educator my goal is to help businesses and individuals succe
     <tr>
         <td>
             <p align="center">
+                <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/mongodb.png" width="50px">
+                <br>
+                MongoDB
+            </p>
+        </td>
+        <td>
+            <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/mysql.png" width="50px">
                 <br>
                 MySQL
@@ -101,8 +106,6 @@ As a programmer and educator my goal is to help businesses and individuals succe
                 PHP
             </p>
         </td>
-    </tr>
-    <tr>
         <td>
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/python.png" width="50px">
@@ -115,11 +118,6 @@ As a programmer and educator my goal is to help businesses and individuals succe
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/sqlite.png" width="50px">
                 <br>
                 SQLite
-            </p>
-        </td>
-        <td>
-            <p align="center">
-                &nbsp;
             </p>
         </td>
     </tr>
@@ -150,8 +148,6 @@ As a programmer and educator my goal is to help businesses and individuals succe
                 git
             </p>
         </td>
-    </tr>
-    <tr>
         <td>
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/github.png" width="50px">
@@ -175,21 +171,21 @@ As a programmer and educator my goal is to help businesses and individuals succe
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/vscodium.png" width="50px">
                 <br>
                 VSCodium (VSCode)
             </p>
         </td>
-        <td>
+        <td colspan="2">
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/windows.png" width="50px">
                 <br>
                 Windows
             </p>
         </td>
-        <td>
+        <td colspan="2">
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/wordpress.png" width="50px">
                 <br>
