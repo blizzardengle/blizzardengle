@@ -1,8 +1,8 @@
 # Hi There, I'm Christopher <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/gifs/hi.gif" width="30px">
 
-A programmer and educator with a personal goal of improving humanity through healthy uses of technology. Below are some of the things I enjoy doing / working with. I love learning and I'm always trying out something new so; which means I'm probably caught up in more than I've listed here <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/smile-sweat.png" width="20px">
+A programmer and educator with a personal goal of improving humanity through healthy uses of technology. Below are some of the things I enjoy doing / working with. I love learning and I'm always trying out something new which means I'm probably caught up in more than I've listed here <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/smile-sweat.png" width="20px">
 
-If you need help with something, want to team up, or want to see what I'm current creating, you should visit [my business page](https://github.com/caboodle-tech) instead.
+If you need help with something, want to team up, hire me, or see what I'm current creating, you should visit [my business page](https://github.com/caboodle-tech) instead.
 
 ### Awards / Volunteer:
 
