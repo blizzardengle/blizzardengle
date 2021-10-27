@@ -38,7 +38,7 @@ As a programmer and educator my goal is to help businesses and individuals succe
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/css3.png" width="50px">
                 <br>
-                CSS
+                CSS3
             </p>
         </td>
         <td>
