@@ -2,7 +2,7 @@
 
 A programmer and educator with a personal goal of improving humanity through healthy uses of technology. Below are some of the things I enjoy doing / working with. I am always interested in learning something new though!
 
-...I'm probably caught up in more than I've listed here to be honest 
+...I'm probably caught up in more than I've listed here to be honest <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/smile-sweat.gif" width="30px">
 
 Need help with something? Want to team up? What to see what I'm current proud of creating? Then check out my [business page](https://github.com/caboodle-tech) instead.
 
