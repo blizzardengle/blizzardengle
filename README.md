@@ -1,6 +1,8 @@
 # Hi There, I'm Christopher <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/gifs/hi.gif" width="30px">
 
-As a programmer and educator my goal is to help businesses and individuals succeed with technology.
+A programmer and educator with a personal goal of improving humanity through healthy uses of technology. Below are some of the things I enjoy doing / working with. I am always interested in learning something new though, and I'm probably caught up in more than I've listed here :sweat_smile:
+
+Need help with something? Want to team up? What to see what I'm current proud of creating? Then check out my [business page](https://github.com/caboodle-tech) instead.
 
 ### Awards / Volunteer:
 
@@ -10,21 +12,28 @@ As a programmer and educator my goal is to help businesses and individuals succe
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/bsa.png" width="50px">
                 <br>
-                Eagle Scout
+                <a href="https://en.wikipedia.org/wiki/Eagle_Scout_(Boy_Scouts_of_America">Eagle Scout</a>
             </p>
         </td>
         <td>
             <p align="center">
-                <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/helping-hands.png" width="50px">
+                <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/just-serve.png" width="50px">
                 <br>
-                Helping Hands
+                <a href="https://www.justserve.org/">Just Serve</a>
+            </p>
+        </td>
+        <td>
+            <p align="center">
+                <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/stackoverflow.png" width="50px">
+                <br>
+                <a href="https://stackoverflow.com/users/3193156/blizzardengle">StackOverflow</a>
             </p>
         </td>
         <td>
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/tahquitz.png" width="50px">
                 <br>
-                Tahquitz Community
+                <a href="https://stackoverflow.com/users/3193156/blizzardengle">Tahquitz Community</a>
             </p>
         </td>
     </tr>
