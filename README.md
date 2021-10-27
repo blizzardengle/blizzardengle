@@ -35,7 +35,7 @@ If you need help with something, want to team up, hire me, or see what I'm curre
             <p align="center">
                 <img  src="https://raw.githubusercontent.com/blizzardengle/blizzardengle/main/imgs/tahquitz.png" width="50px">
                 <br>
-                <a href="https://stackoverflow.com/users/3193156/blizzardengle">Tahquitz Community</a>
+                <a href="https://en.wikipedia.org/wiki/Tribe_of_Tahquitz">Tahquitz Community</a>
             </p>
         </td>
     </tr>
